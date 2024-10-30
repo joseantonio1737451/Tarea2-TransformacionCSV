@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo><record id="film_1" model="videoclub.peliculas"><field name="name">Pulp Fiction</field><field name="director" ref="director_1" /><field name="actors" eval="[(6,0,[ref('actor_1'),ref('actor_2')])]" /><field name="release">1995-01-13</field><field name="country">Estados Unidos</field><field name="duration">154</field><field name="rating">5</field><field name="cover" file="videoclub/static/img/pulp.jpg" type="base64" /></record></odoo>
